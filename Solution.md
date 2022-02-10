@@ -1,6 +1,6 @@
 # How to Create the Power Automate Flow
 
-In this section, I'm discussing the flow. Once it's all done, you will be able to automate the Team creation by ingesting the preferred template.
+In this section, I'm discussing the steps involved in creating the Flow.
 
 ## Step 1 - Create the trigger
 This should be **When a new responce is submitted** and select the previously created MS Form [Check here](https://github.com/shehanperera85/PowerAutomate/blob/main/IntroAndPrereqs.md#3-create-a-simple-form-using-microsoft-forms
@@ -72,3 +72,4 @@ In the below code you can see **[ID]**, **[TEAM NAME] **and **[USER ID]**. They 
   ]
 }
 
+Once it's all done, you will be able to automate the Teams creation by ingesting the preferred template
