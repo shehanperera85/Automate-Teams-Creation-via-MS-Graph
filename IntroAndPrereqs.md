@@ -1,5 +1,7 @@
 # Create Teams via Microsoft Graph
 
+Goal of this flow: To be able to automate the Teams creation by ingesting the preferred template.
+
 Often times the issue with the IT Admins is with the ever growing Teams popularity, how to beat the demand and how to create Teams and specially, how to template it out and automate it.
 Well, Teams templates are now in the Teams Admin Center where you can see pre-defined templates and the ability to cerate custom templates if required.
 With the templates, IT admins have to potentially provide the users the ability create Teams and then advice them to create a Team with a template. This will also give them the opportunity to create more Teams without the knowledge of the IT.
