@@ -27,10 +27,18 @@ Provide the app name (eg: **Power_Automate_Graph_API**)
 Supported Account Types: **Accounts in this organizational directory only**
 Press **Register**
 
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/98259062/153370392-e32becc0-35d0-4375-8048-3d9abb47801a.png">
+
 **Note down the Client ID of the APP**
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/98259062/153370593-57d2806e-4c71-46fb-90b8-bec6cf4baa3f.png">
+
 
 Go to **Certificates and Services** > **New Client Secret** > Set the name and expiration period
 **note down the Secret (Value)**
+
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/98259062/153370243-70d100db-96f5-492f-a24d-76a74aaca6ad.png">
+
 
 Now go to **API permissions**
 Go to **Add a permission** > select **MS Graph** > select **Application permissions**
@@ -41,6 +49,8 @@ Team.Create, Teamwork.Migrate.All, Group.ReadWrite.All**, Directory.ReadWrite.Al
 Once the above permissions are added, provide **Admin consent**
 
 This completes the app registration and providing MS Graph the necessary permissions.
+
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/98259062/153370747-cdc973a3-75f9-48a1-8de4-40b885e9b545.png">
 
 ## 2. Pre Defined Teams Templates
 
@@ -63,6 +73,9 @@ You need the below 'required' questions in the Form
 
 A bit about the Template Name.
 This Template name must corralate with the previously noted templates. Ideally if you are planning on using 5 templates, you need to know the Template names and the IDs.
+
+<img width="583" alt="image" src="https://user-images.githubusercontent.com/98259062/153369440-c9a93455-4997-4580-8099-b1963ce25746.png">
+
 
 ## 4. Excel Online Workbook
 Create a simple Excel Online workbook and add a Table.
