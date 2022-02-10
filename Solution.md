@@ -3,8 +3,7 @@
 In this section, I'm discussing the steps involved in creating the Flow.
 
 ## Step 1 - Create the trigger
-This should be **When a new responce is submitted** and select the previously created MS Form [Check here](https://github.com/shehanperera85/PowerAutomate/blob/main/IntroAndPrereqs.md#3-create-a-simple-form-using-microsoft-forms
-)
+This should be **When a new responce is submitted** and select the previously created MS Form [Check here](https://github.com/shehanperera85/Teams-via-MS-Graph-and-Power-Automate/blob/main/IntroAndPrereqs.md#3-create-a-simple-form-using-microsoft-forms)
 
 <img width="687" alt="image" src="https://user-images.githubusercontent.com/98259062/153371830-b05ab360-3de6-4cf5-b322-718a7a57fca8.png">
 
