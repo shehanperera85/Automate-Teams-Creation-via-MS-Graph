@@ -35,7 +35,7 @@ Press **Register**
 
 <img width="796" alt="image" src="https://user-images.githubusercontent.com/98259062/153370593-57d2806e-4c71-46fb-90b8-bec6cf4baa3f.png">
 
-
+### Secret
 Go to **Certificates and Services** > **New Client Secret** > Set the name and expiration period
 **note down the Secret (Value)**
 
@@ -90,3 +90,5 @@ Save the file in a OneDrive or in a Docuemnt Library
 ## 4.Power Automate
 This is the most interesting part. To create the Power Automate flow by using the above elements.
 Please check the **Solution** file for the Power Automate Flow.
+
+## When all above steps are done, go to the file [Solution](https://github.com/shehanperera85/PowerAutomate/blob/main/Solution.md#how-to-create-the-power-automate-flow) 
